@@ -167,9 +167,7 @@ p {
 	min-height: 100%;
 	width: auto; 
 	height: auto; 
-	z-index: -1000;
-	background: url(img/background.jpg) no-repeat;
-	background-size: cover; 
+	z-index: -1000; 
 }
 
 
